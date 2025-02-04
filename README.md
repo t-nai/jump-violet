@@ -1,6 +1,6 @@
 # jump-violet
 
-**To run this program, download all files in the main branch. Run the command 'pip install pygame' in your Python software's terminal. Ensure all downloaded files are in the same folder as the main.py file, and then run to play the game. Happy jumping!**
+**To run this program, download all files in the main branch. Run the command 'pip install pygame' in your Python software's terminal. Ensure all downloaded files are in the same folder as main.py and run main.py to launch the game. Happy jumping!**
 
 **Demo Video**\
 [https://youtu.be/TwI1vlJHmdE?feature=shared](url)
